@@ -47,7 +47,8 @@ a. It checks that the user has inserted enough money to purchase the drink they 
 E.g Latte cost $2.50, but they only inserted $0.52 then after counting the coins the
 program says “Sorry that's not enough money. Money refunded.”.
 
-![4](https://github.com/FeyzaKaraoglu/CoffeeMachine/assets/158828423/dc56eaf0-d978-4c3b-94d9-90a2cd068394)
+![image](https://github.com/FeyzaKaraoglu/CoffeeMachine/assets/158828423/9f16cff2-7bbf-409f-bc46-c9c105ce9941)
+
 
 b. But if the user has inserted enough money, then the cost of the drink gets added to the
 machine as the profit and this will be reflected the next time “report” is triggered. E.g.
